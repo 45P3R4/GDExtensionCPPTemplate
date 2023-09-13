@@ -1,4 +1,4 @@
-# GDExtensionCPPTemplate
+# GDExtensionCPPTemplate 4.1
 
 - Clone https://github.com/godotengine/godot-cpp/tree/4.1
 - Place "godot-cpp" folder alongside "src" and "demo"
